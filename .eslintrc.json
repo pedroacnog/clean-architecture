@@ -4,6 +4,6 @@
     "project": "./tsconfig.json"
   },
   "rules": {
-    "@typescript-eslint/camelcase": false
+    "@typescript-eslint/camelcase": "off"
   }
 }
